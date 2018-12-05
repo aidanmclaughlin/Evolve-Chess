@@ -1,3 +1,7 @@
+//So far only allows player vs. computer playing randomly.  See http://chessboardjs.com/examples#5001 for more details.
+
+
+
 var board,
   game = new Chess();
 
